@@ -3,7 +3,7 @@
 ### Basic implementation of a websocket server and client.
 - This project uses the [Gorilla WebSocket](https://github.com/gorilla/websocket) library.
 - Broadcast the message to all connected clients.
-- Implemented a websocket client that can connect to the server, send and receive messages.
+- The websocket client can connect to the server, send and receive messages.
 
 ### Running this code.
 - This code requires a working Go development environment.
